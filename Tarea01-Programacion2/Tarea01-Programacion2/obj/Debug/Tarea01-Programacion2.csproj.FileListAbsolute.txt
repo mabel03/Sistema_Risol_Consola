@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\Tarea01-Programacion2\Tarea01-Programacion2\obj\Debug\Tarea01-Programacion2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Tarea01-Programacion2\Tarea01-Programacion2\bin\Debug\Tarea01-Programacion2.exe.config
+C:\Users\User\Desktop\Tarea01-Programacion2\Tarea01-Programacion2\bin\Debug\Tarea01-Programacion2.exe
+C:\Users\User\Desktop\Tarea01-Programacion2\Tarea01-Programacion2\bin\Debug\Tarea01-Programacion2.pdb
+C:\Users\User\Desktop\Tarea01-Programacion2\Tarea01-Programacion2\obj\Debug\Tarea01-Programacion2.exe
+C:\Users\User\Desktop\Tarea01-Programacion2\Tarea01-Programacion2\obj\Debug\Tarea01-Programacion2.pdb
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\Tarea01-Programacion2\Tarea01-Programacion2\bin\Debug\Tarea01-Programacion2.exe.config
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\Tarea01-Programacion2\Tarea01-Programacion2\bin\Debug\Tarea01-Programacion2.exe
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\Tarea01-Programacion2\Tarea01-Programacion2\bin\Debug\Tarea01-Programacion2.pdb
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\Tarea01-Programacion2\Tarea01-Programacion2\obj\Debug\Tarea01-Programacion2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\Tarea01-Programacion2\Tarea01-Programacion2\obj\Debug\Tarea01-Programacion2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\Tarea01-Programacion2\Tarea01-Programacion2\obj\Debug\Tarea01-Programacion2.exe
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\Tarea01-Programacion2\Tarea01-Programacion2\obj\Debug\Tarea01-Programacion2.pdb
